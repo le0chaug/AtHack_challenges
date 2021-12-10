@@ -1,3 +1,3 @@
 # AtHack_challenges
 
-here im sharing some challengs from #AtHack competition.
+here im sharing some challenges from #AtHack competition.
